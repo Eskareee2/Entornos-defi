@@ -7,6 +7,8 @@ package com.azahartech.eventdev.model;
  * @version 1.0
  */
 public class Evento {
+    public String nombre;
+    public String fecha;
     // ... atributos ...
     /**
      * Comprueba si el aforo del evento se ha completado.
