@@ -1,4 +1,4 @@
-package com.azahartech.eventdev.model;
+package eventdev.modelo;
 /**
  * Representa un evento cultural o deportivo dentro del sistema EventDEV.
  * Gestiona la información básica y el control de aforo.

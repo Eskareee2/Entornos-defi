@@ -4,7 +4,7 @@ import com.google.gson.Gson;
 public class App {
     public static void main(String[] args) {
         // 1. Creamos y damos datos a nuestro objeto Evento
-        com.azahartech.eventdev.model.Evento miConcierto = new com.azahartech.eventdev.model.Evento();
+        eventdev.modelo.Evento miConcierto = new eventdev.modelo.Evento();
         miConcierto.nombre = "Concierto Inauguración Azahar Tech";
         miConcierto.fecha = "2025-09-25";
         // 2. Usamos la herramienta Gson para la conversión
